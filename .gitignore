@@ -1,0 +1,15 @@
+node_modules/
+.tmp_ffmpeg/
+.cache/
+__pycache__/
+*.pyc
+yt-dlp.exe
+yt-dlp.exe.part
+.env
+
+# Carpetas de trabajo (videos, guiones, proyectos): nunca al repo
+Historias/
+Gaming/
+metricas.json
+fonts/
+.test_tmp/
